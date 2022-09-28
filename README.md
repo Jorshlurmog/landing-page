@@ -1,1 +1,1 @@
-This is a practice landing page intended to test the basic HTML and CSS, including flexbox, concepts that I've learned.
+This is a practice landing page intended to test the basic HTML and CSS concepts (especially flexbox) that I've learned.
